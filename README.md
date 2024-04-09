@@ -1,8 +1,7 @@
-# Born2beRoot
-> *This project aims to introduce you to the wonderful world of virtualization.*
+# born2beroot
+> *Ce projet vise à vous faire découvrir le merveilleux monde de la virtualisation.*
 
-You will create your first machine in VirtualBox (or UTM if you can’t use VirtualBox) under specific instructions.
-Then, at the end of this project, you will be able to set up your own operating system while implementing strict rules.
+Vous allez créer votre première machine en suivant des consignes précises et en utilisant VirtualBox. À la fin de ce projet, vous serez capable d’installer votre propre système d’exploitation en respectant des règles strictes.
 
 ## Checklist
 - [x] Debian based
