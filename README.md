@@ -1,6 +1,6 @@
 # <p align="center">born2beroot</p>
 > *Ce projet vise à vous faire découvrir le merveilleux monde de la virtualisation. Vous allez créer votre première machine en suivant des consignes précises et en utilisant VirtualBox.*
-> 
+>
 > *À la fin de ce projet, vous serez capable d’installer votre propre système d’exploitation en respectant des règles strictes.*
 
 ## Checklist
@@ -15,3 +15,4 @@
 
 ## LVM
 ![](https://github.com/Skalyaeve/images-1/blob/main/screenshot/b2br1.png)
+
