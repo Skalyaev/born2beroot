@@ -15,4 +15,3 @@
 
 ## LVM
 ![](https://github.com/Skalyaeve/images-1/blob/main/screenshot/b2br1.png)
-
